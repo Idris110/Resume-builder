@@ -235,7 +235,7 @@ export default function Home() {
           addEducation,
         }}
       >
-        <main className="flex m-auto md:w-auto w-fit flex-col-reverse justify-center items-center md:relative md:items-stretch  md:h-screen">
+        <main className="flex m-auto md:w-auto w-fit md:mt-[250px] flex-col-reverse justify-center items-center md:relative md:items-stretch  md:h-screen">
           <div className="m-auto md:w-fit md:h-fit relative md:absolute  md:left-[26.5rem] md:right-0 md:bottom-0 md:flex md:top-0 ">
             <div>
               <section
@@ -251,11 +251,11 @@ export default function Home() {
           </div>
           <PageButtons />
 
-          <div className="flex align-middle h-full">
+          <div className="flex align-middle mt-[350px]">
             <section className="settings rounded-2xl w-full overflow-auto">
               <Settings />
             </section>
-            <div className="md:meshGradient left-0 bg-slate-300 h-full w-full md:opacity-20 fixed md:absolute -z-10  md:h-screen"></div>
+            <div className="md:meshGradient left-0 bg-slate-300 h-full w-full md:opacity-20 fixed md:absolute -z-10 md:h-screen"></div>
           </div>
         </main>
       </CvContext.Provider>

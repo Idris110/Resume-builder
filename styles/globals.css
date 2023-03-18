@@ -2,10 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500&display=swap');
+
+
 
 @layer base {
   * {
     box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
     margin: 0;
     padding: 0;
   }
