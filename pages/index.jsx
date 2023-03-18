@@ -235,7 +235,7 @@ export default function Home() {
           addEducation,
         }}
       >
-        <main className=" flex m-auto md:w-auto w-fit md:mt-[250px] flex-col-reverse justify-center items-center md:relative md:items-stretch  md:h-screen">
+        <main className="ml-[80px] flex m-auto md:w-auto w-fit md:mt-[250px] flex-col-reverse justify-center items-center md:relative md:items-stretch  md:h-screen">
           <div className="m-auto md:w-fit md:h-fit relative md:absolute  md:left-[26.5rem] md:right-0 md:bottom-0 md:flex md:top-0 ">
             <div>
               <section
