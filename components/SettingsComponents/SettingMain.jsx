@@ -44,21 +44,11 @@ const SettingMain = () => {
             <SetEmpty />
             <SetSample />
           </div>
-          <motion.div
-            layout
-            className="w-44 h-1 mx-auto mt-2 bg-gray-200 rounded-full"
-          />
-          <div className="flex space-x-2 mt-2">
-            <ContactBtn />
-
-            <GithubBtn />
-          </div>
-          <div className="mt-2">
-            <CoffeBtn />
-          </div>
+          
+          
 
           <div className="mt-5">
-            <h1 className="text-xl font-bold">Templates</h1>
+            <h1 className="text-xl font-bold">Resume Templates</h1>
             <div className="flex flex-row space-x-4 mt-2">
               <TemplateSwitcher value={1} />
               <TemplateSwitcher value={2} />
