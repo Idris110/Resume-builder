@@ -29,61 +29,61 @@ export const cvData = {
     "React",
     "Tailwind",
   ],
-  languages: ["Turkish(Native)", "English(A2)"],
+  languages: ["Gujarati(Native)", "English"],
   skillTitle1: "Tools and Tech Skills",
   skillTitle2: "Industry Knowledge",
   skillTitle3: "Languages",
   projects: [
     {
       title: "CV Builder",
-      link: "https://cv-builder.halid.dev/",
+      link: "https://shivamrat.dev/cv-builder.dev/",
       summary: `With this project you can create real time CV. You can see the changes you have made live. Built with Tailwind and contextAPI.`,
     },
     {
-      title: "halid.dev",
-      link: "https://halid.dev",
+      title: "shivamrat.dev",
+      link: "https://shivamrat.dev",
       summary: `My personal website, that I created with Next.js, Tailwind Css, Content Layer.`,
     },
 
     {
       title: "Weather App",
-      link: "https://weather-imhalid.vercel.app/",
+      link: "https://shivamrat.dev/weather-imhalid.vercel.app/",
       summary: `In this work, a small project where I visualize the data from the API.`,
     },
   ],
   education: [
     {
       title: "Web Design and Programming",
-      school: "Anadolu University",
+      school: "TSEC",
       startDate: "2022",
       endDate: "Now",
     },
     {
       title: "Computer Programming",
-      school: "Adnan Menderes University",
+      school: "St Lawrence",
       startDate: "2017",
       endDate: "2019",
     },
   ],
   experiences: [
     {
-      title: "Graphic Designer, Editor, Data Analysis",
-      company: "Suriye Gündemi",
+      title: "Graphic Designer, Data Analysis",
+      company: "JPMC",
       startDate: "2016",
       endDate: "2020",
       current: true,
-      summary: `It is an impartial information sharing platform about Syria. My job task:
-       Preparation of up-to-date maps according to the situation in the war zone. 
-       Preparing visual infographics about the obtained data and organizing these data. 
-       Adding articles and content to the site with Wordpress.`,
+      summary: ` My job task:
+       Preparation of up-to-date statistics according to the situation in the stock market. 
+       Preparing visual infographics about the obtained data and organizing these data..`,
     },
     {
-      title: "Content Creator, Videographer",
-      company: "Zore Aksesuar",
+      title: "Senior Analyst",
+      company: "Amazon",
       startDate: "2021",
-      endDate: "(2 Months)",
+      endDate: "Present",
       current: true,
-      summary: `In this company that sells accessories for phones and technological products, I prepared the video edits of the new products and mounted them with Final Cut Pro. I shared my social media posts with Facebook Business.`,
+      summary: `My job task:
+      Leading a team of 5 colleagues, selcting and shortlisting statistics and infographics, analyzing data and presenting data weekly...`,
     },
   ],
   displayImage: true,
