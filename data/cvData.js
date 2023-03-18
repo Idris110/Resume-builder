@@ -1,15 +1,15 @@
 export const cvData = {
-  name: "Halit İslam İçli",
+  name: "Shivam Ratlamwala",
   image: "",
   jobTitle: "Frontend Developer",
-  location: "Ankara, Turkey",
-  email: "imhalid@icloud.com",
+  location: "Mumbai, India",
+  email: "shivamratlamwala@gmail.com",
   linkedIn: "",
   instagram: "",
   facebook: "",
-  twitter: "halidislm",
-  github: "imhalid",
-  website: "halid.dev",
+  twitter: "shivam",
+  github: "ratlamwala",
+  website: "shivamrat.dev",
   about:
     "After graduating from the programming department, I worked remotely on graphic design for about 5 years. I have been working to be a **Front End Developer** for the last 7 months and I am looking for a job in this field. Because of my old job, *I give importance to design and visuality in my work.*",
 
