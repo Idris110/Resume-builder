@@ -45,7 +45,7 @@ function Navbar() {
 
 
         </div>
-        <button type="button" className="text-white w-[220px] mr-5 bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-4 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Lets Analyse Resume</button>
+        <a href="http://localhost:8501/"><button type="button" className="text-white w-[170px] mr-5 bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-4 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Go to analyzer</button></a>
       </nav>
     </div>
   )

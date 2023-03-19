@@ -210,12 +210,12 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>CV Builder</title>
+        <title>SmartHire - Cv Builder</title>
         <meta
-          name="Cv Builder"
+          name="SmartHire-Cv Builder"
           content="Beautifully designed cv builder where you can see the changes at the same time"
         />
-        <link rel="icon" href="/fav.png" />
+        <link rel="icon" href="https://i.imgur.com/s6951lA.png" />
       </Head>
       <CvContext.Provider
         value={{
