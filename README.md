@@ -1,6 +1,6 @@
 This project helps you to prepare a good looking CV.
 
-![Cover](/public/Screenshot (77).png)
+![plot](public/Screenshot (77).png)
 
 - [x] Create main design
 - [x] Changing information with inputs
