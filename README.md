@@ -3,6 +3,7 @@ This project helps you to prepare a good looking CV.
 It is a part of our broader project SmartHire,
 which helps recruiters to find best candidates for their job title.
 
+<br/>
 <p align="center">
   <img src="public/ss1.png"  width="100%"/>
 </p>
